@@ -9,7 +9,7 @@ import HowItWorks from './components/HowItWorks'
 import Services from './components/Services'
 import Testimonials from './components/Testimonials'
 import Pricing from './components/Pricing'
-import Faq from './components/FAQ'
+import Faq from './components/Faq'
 import BookCallSection from './components/BookCallSection'
 import Footer from './components/Footer'
 
