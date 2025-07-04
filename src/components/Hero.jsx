@@ -36,11 +36,11 @@ const Hero = () => {
               fontWeight: 800,
             }}
           >
-            <span className="block text-9xl text-[#d3d3d3]">Boost Your </span>
+            <span className="block text-9xl text-[#d3d3d3]">Automation That </span>
             <span className="block text-9xl text-[#cccccc]">
-              for your <span ref={businessRef}>Business</span>
+              Drives <span ref={businessRef}>Business</span>
             </span>
-            <span className="block text-9xl text-[#2e1e1e]">with AI Innovation</span>
+            <span className="block text-9xl text-[#2e1e1e]">Performance</span>
           </h1>
 
           <p
