@@ -32,11 +32,10 @@ const HeroTextBlock = () => {
   }, []);
 
   const fullText = [
-    'Enhance your workflows to',
-    'maximize performance and take',
-    'effective control of your time.',
-    'Focus on what truly your business ,',
-    'while routine tasks run on autopilot with the help of our no-code and code-based solutions.',
+    'Transform the way you work and take control of your business like never before',
+    'Our intelligent no-code and code-based solutions help you automate time-consuming',
+    'asks, optimize performance, and eliminate operational inefficiencies.',
+    'Free up your time, boost productivity, and focus on what really drives success—while automation runs your workflows in the background.',
   ];
 
   // Combine all lines into one array with <br /> where needed
@@ -46,7 +45,7 @@ const HeroTextBlock = () => {
   });
 
   return (
-    <div className="max-w-5xl mx-auto py-12 font-bold text-[48px] md:text-[40px] lg:text-[48px] font-['Plus Jakarta Sans'] leading-tight tracking-tight" style={{
+    <div className="max-w-5xl mx-auto py-12 font-bold text-[30px] md:text-[40px] lg:text-[42px] font-['Plus Jakarta Sans'] leading-tight tracking-tight" style={{
       fontFamily: '"Plus Jakarta Sans", sans-serif',
       }}>
       {combinedText.map((char, i) =>

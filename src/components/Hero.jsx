@@ -36,11 +36,11 @@ const Hero = () => {
               fontWeight: 800,
             }}
           >
-            <span className="block text-9xl text-[#d3d3d3]">AI Services</span>
+            <span className="block text-9xl text-[#d3d3d3]">Boost Your </span>
             <span className="block text-9xl text-[#cccccc]">
               for your <span ref={businessRef}>Business</span>
             </span>
-            <span className="block text-9xl text-[#2e1e1e]">Growth</span>
+            <span className="block text-9xl text-[#2e1e1e]">with AI Innovation</span>
           </h1>
 
           <p
@@ -50,7 +50,7 @@ const Hero = () => {
             }}
           >
             We'll pump your company with AI. As a leading AI automation agency <br />
-            with 99 years of experience, we deliver top results.
+            with 03 years of experience, we deliver top results.
           </p>
 
           <div className="mt-8 flex justify-start items-start gap-4">
